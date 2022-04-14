@@ -6,9 +6,9 @@ For this project, we built a project based on Java Socket Programming. The use o
 
 ### Features:
 
-- users can choose there own name
+- users can choose thier own name
 - Multithreading
-- sending and recieving messages
+- send and recieve messages
 
 ### How to run:
 
