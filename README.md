@@ -1,5 +1,12 @@
 # ChatRoom
 
+### Authors
+
+- Vrund Patel
+- Fahad Fauzan
+- Haider Bajwa
+- Vishwaajeeth Kamalakkannan
+
 ### Introduction 
 
 For this project, we built a project based on Java Socket Programming. The use of Multithreading played a major role in this project. For the language we used JavaFx. We made a mulitple user chat application called "ChatRoom". For the front end development we used JavaFx scenebuilder. This multiplie client chat can let people communicate on the same network.
